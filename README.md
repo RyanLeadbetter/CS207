@@ -31,6 +31,9 @@ Signal (Pulse): The signal wire connects to an arduino digital pin. The wire col
 This is a picture of the skematics of the ardunio project.
 ![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/img/Project_schem.jpg)
 
+# Usage 
+(Will come later)
+
 
 
 
