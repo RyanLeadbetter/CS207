@@ -5,7 +5,7 @@ This project is a biped robot. The project will use 6 servos for the legs of the
 
 This is a breadboard diagram of how to set up the servos to the arduino. Each servo will have three wires that are connected to the arduino.
 
-Power: The power wire will connect to the 5V power of the arduino which is typically a red wire.
+Power: The power wire will connect to the 5V power of the arduino which is typically a red wire./n
 Ground: The ground wire will connect to the Ground of the arduino which is typically a black or brown wire.
 Signal (Pulse): The signal wire connects to an arduino digital pin. The wire colour is typically yellow or orange. 
 
