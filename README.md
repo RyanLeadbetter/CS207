@@ -5,6 +5,19 @@ This project is a biped robot. The project will use 6 servos for the legs of the
 # Pictures of project
 (Will come later)
 
+# Repository Contents
+(Will come later)
+
+# Materials for project
+
+6 x Micro Servos <br />
+1 x Arduino Uno <br />
+1 x Breadboard <br />
+Craft (Popsicle) Sticks <br />
+Electrical Tape <br />
+Hot Glue Gun <br />
+Wires <br />
+
 # Breadboard Diagram
 This is a breadboard diagram of how to set up the servos to the arduino. Each servo will have three wires that are connected to the arduino.
 
