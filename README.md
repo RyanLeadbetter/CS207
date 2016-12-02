@@ -28,11 +28,11 @@ Power: The power wire will connect to the 5V power of the arduino which is typic
 Ground: The ground wire will connect to the Ground of the arduino which is typically a black or brown wire.<br />
 Signal (Pulse): The signal wire connects to an arduino digital pin. The wire colour is typically yellow or orange. 
 
-![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/img/Project_bb.png)
+![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/IMG/Project_bb.png)
 
 # Sechmatics
 This is a picture of the skematics of the ardunio project.
-![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/img/Project_schem.png)
+![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/IMG/Project_schem.png)
 
 # Usage 
 (Will come later)
