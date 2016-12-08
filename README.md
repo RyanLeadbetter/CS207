@@ -3,7 +3,8 @@
 This project is a biped robot. The project will use 2 servos for the legs of the robot (3 on each leg). The ardunio on the robot is connected to the computer for a power supply. The robot will be able to walk forward.
 
 # Pictures of project
-(Will come later)
+![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/IMG/File_000%20(1).jpeg)
+![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/IMG/File_001%20(1).jpeg)
 
 # Repository Contents
 (Will come later)
