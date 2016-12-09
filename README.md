@@ -1,4 +1,4 @@
-# CS207 Project Biped Robot
+# Simple Bipedal Robot
 
 This project is a biped robot. The project will use 2 servos for the legs of the robot (3 on each leg). The ardunio on the robot is connected to the computer for a power supply. The robot will be able to walk forward.
 
@@ -34,7 +34,7 @@ Signal (Pulse): The signal wire connects to an arduino digital pin. The wire col
 ![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/IMG/Project_bb.png)
 
 # Sechmatics
-This is a picture of the skematics of the ardunio project.
+This is a picture of the skematics of the bipedal robot.
 ![alt tag](https://github.com/RyanLeadbetter/CS207/blob/master/IMG/Project_schem.png)
 
 # Usage 
